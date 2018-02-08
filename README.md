@@ -8,7 +8,7 @@ A sample todo list app developed by using ionic framework.
 git clone https://github.com/ouyangdanlin/Ionic.git
 ```
 ```
-cd ionic-todo-app
+cd Ionic
 ```
 ```
 cd /Users/ouyangdanlin/Desktop/ionic\ todo/myApp
