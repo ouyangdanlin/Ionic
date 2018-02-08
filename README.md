@@ -11,11 +11,6 @@ git clone https://github.com/ouyangdanlin/Ionic.git
 cd Ionic
 ```
 ```
-cd /Users/ouyangdanlin/Desktop/ionic\ todo/myApp
-```
-```
-cd ionic-todo-app
-```
 ```
 npm install
 ```
