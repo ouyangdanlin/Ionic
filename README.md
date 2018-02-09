@@ -1,4 +1,4 @@
-# Todo application with ionic framewrok
+# Todo application with ionic framework
 
 A todo list app developed by using ionic framework.
 
