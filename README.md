@@ -1,6 +1,6 @@
 # Todo application with ionic framewrok
 
-A sample todo list app developed by using ionic framework.
+A todo list app developed by using ionic framework.
 
 ## Getting Started
 ```
